@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('admin.layout', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp8.2\htdocs\galery_web\resources\views/admin/dashboard/index.blade.php ENDPATH**/ ?>
